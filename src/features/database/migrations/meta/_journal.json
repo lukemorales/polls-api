@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1709835177989,
+      "tag": "0000_dazzling_maddog",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1709835221545,
+      "tag": "0001_cuddly_hemingway",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1709942753513,
+      "tag": "0002_mute_frank_castle",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1710207486267,
+      "tag": "0003_military_the_santerians",
+      "breakpoints": true
+    }
+  ]
+}
